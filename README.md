@@ -22,7 +22,7 @@ This project aims to assist visually impaired individuals by providing a simple 
 3. The Arduino processes this data and activates the piezo buzzer to alert the user.
 
 ## Code
-The code for this project is located in the [`Code/blind_assist_shoe/blind_assist_shoe.ino`](Code/blind_assist_shoe/blind_assist_shoe.ino) file.
+The code for this project is located in the [`code/blind_assist_shoe/blind_assist_shoe.ino`](code/blind_assist_shoe/blind_assist_shoe.ino) file.
 
 ## Images
 <img width="524" alt="final" src="https://github.com/user-attachments/assets/bb67800c-4c02-4204-9f16-22f47a98f5c4" />
